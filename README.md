@@ -1,1 +1,1 @@
-# Article-brainAging
+# Article - Characterizing Brain Networks: Unveiling Changes in Brain Functioning During Aging
